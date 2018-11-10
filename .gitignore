@@ -1,0 +1,8 @@
+.vscode/
+node_modules/
+dist/
+coverage/
+debug.log
+package-lock.json
+.cache
+config/tslint.config.json
